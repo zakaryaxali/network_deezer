@@ -102,3 +102,6 @@ images/
 
 # mypy
 .mypy_cache/
+
+#.file
+*.file
