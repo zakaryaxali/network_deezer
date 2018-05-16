@@ -1,6 +1,6 @@
 # network_deezer
-ENSAE Course project - Statistical Analysis of Network Data
-Deezer: Graph comparison and recommendation system
+ENSAE Course project - Statistical Analysis of Network Data  
+## Deezer: Graph comparison and recommendation system
 
 Code : Zakarya Ali, Vincent Le Meur
 
